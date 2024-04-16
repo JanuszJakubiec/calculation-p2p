@@ -5,7 +5,3 @@ Aplikacja umożliwiająca rozproszone obliczenia równoległe. Używa sieci peer
 ---
 
 [Dokumentacja projektu](https://marszub.github.io/calculation-p2p/)
-
----
-
-<img src="Keep calm.jpg">
